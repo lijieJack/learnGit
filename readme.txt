@@ -5,4 +5,5 @@ Git is bbbbb free software.
 88888888888
 大幅发放人
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
+
